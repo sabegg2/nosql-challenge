@@ -19,7 +19,9 @@ There are 41 establishments with a hygiene score of 20.
 
 There are 33 establishments in London with a RatingValue greater than or equal to 4.
 
-The Business names of the top 5 establishments with a Rating Value of 5, sorted by lowest hygiene score, within 0.01 degree of the 'Penang Flavours' restaurant: "Howe and Co Fish and Chips - Van 17", "Lumbini Grocery Ltd T/A Al-Iman", "Plumstead Manor Nursery", "Iceland", "Volunteer". (Note that this analysis is somewhat misleading. There are more than five businesses that have a Rating Value of 5, hygiene score of 0, and are within 0.01 degree of the 'Penang Flavours' restaurant. However, we were told to just give the names of the "top 5" - unless we did some math to figure out how close each actually was to the 'Penang Flavours' restaurant and sorted by this distance as well, there are more than 5 that are equivalent under the given criteria.)
+The Business names of the top 5 establishments with a Rating Value of 5, sorted by lowest hygiene score, within 0.01 degree of the 'Penang Flavours' restaurant: "Howe and Co Fish and Chips - Van 17", "Lumbini Grocery Ltd T/A Al-Iman", "Plumstead Manor Nursery", "Iceland", "Volunteer". 
+
+(Note that this analysis is somewhat misleading. There are 66 establishments with a rating value of 5, hygiene score of 0, and within 0.01 degree of the restaurant 'Penang Flavours'. However, we were told to just give the names of the "top 5" - unless we did some math to figure out how close each actually was to the 'Penang Flavours' restaurant and sorted by this distance as well, there are more than 5 that are equivalent under the given criteria.)
 
 There are 55 Local Authority areas that have at least one establishment with hygiene score of 0. The first 10 Local Authority areas, sorted by number of establisments with a hygiene score of 0, are:
 
