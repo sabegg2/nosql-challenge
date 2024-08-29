@@ -25,3 +25,6 @@ There are 55 Local Authority areas that have at least one establishment with hyg
 
 <img src="hygiene_agg_df_first10.png" width=200>
 
+## External Sources
+
+I modeled my code off of the activities from class, and used XPert Learning Assistant on occasion for quick coding help. 
