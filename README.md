@@ -13,7 +13,20 @@ This Challenge had two Deliverables:
 
 2. Deliverable 2: A Jupyter notebook ([NoSQL_analysis.ipynb](NoSQL_analysis.ipynb)) containing code that performs the exploratory analysis queries in the database.
 
+## Setup Summary
+
+Below I summarize the various operations performed to the data in the NoSQL_setup.ipynb file.
+
+In the setup, I imported the data and set up the uk_food database. I made some modifications/updates, including 
+(1) Added a new entry for Penang Flavours restaurant,
+(2) Updated the BusinessTypeID of this new entry,
+(3) Removed all documents with the LocalAuthorityName of Dover,
+(4) Updated the latitude and longitude to decimal numbers,
+(5) Set non-numerical ratings to null and changed numerical ratings to integers.
+
 ## Analysis Summary
+
+Below I give the main results from the analysis done in the NoSQL_analysis.ipynb file.
 
 There are 41 establishments with a hygiene score of 20.
 
