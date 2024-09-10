@@ -17,11 +17,16 @@ This Challenge had two Deliverables:
 
 Below I summarize the various operations performed to the data in the NoSQL_setup.ipynb file.
 
-In the setup, I imported the data and set up the uk_food database. I made some modifications/updates, including 
+In the setup, I imported the data and set up the uk_food database. I made some modifications/updates, including:
+
 (1) Added a new entry for Penang Flavours restaurant,
+
 (2) Updated the BusinessTypeID of this new entry,
+
 (3) Removed all documents with the LocalAuthorityName of Dover,
+
 (4) Updated the latitude and longitude to decimal numbers,
+
 (5) Set non-numerical ratings to null and changed numerical ratings to integers.
 
 ## Analysis Summary
